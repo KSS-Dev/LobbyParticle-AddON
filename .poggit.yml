@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Hyroxing/LobbyParticle-AddON
+branches:
+- master
+projects:
+  Particle -iTzFreeHD:
+    path: Particle -iTzFreeHD/
+...
