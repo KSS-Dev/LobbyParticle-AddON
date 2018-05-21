@@ -10,7 +10,12 @@
 
 ### Beschreibung:
 - Das Particle AddOn ist für  das [LobbySystem](https://github.com/Hyroxing/LobbySystem) bestimmt. Mit dem Command /freeparticle Öffnest du deine Particle.
---------
+
+--------------------
+### Download .phar:
+- [![.phar](https://poggit.pmmp.io/ci/Hyroxing/LobbyParticle-AddON/Particle+-iTzFreeHD)](https://poggit.pmmp.io/ci/Hyroxing/LobbyParticle-AddON/Particle+-iTzFreeHD)
+--------------------
+
 ### Virion
 - Um die WinGUI benötigst du die sogenante Virion. Um [InvMenu](https://poggit.pmmp.io/ci/Muqsit/InvMenu/%7E) benötigst du das [DEVirion](https://poggit.pmmp.io/p/DEVirion/1.2.0) Plugin. Wenn du es installiert hast gehe in das Main verzeichniss deines PocketMine-MP Servers
 und navigierst dann zu _"virions"_ dort fügst du [InvMenu](https://poggit.pmmp.io/ci/Muqsit/InvMenu/%7E) ein. Sollte die .phar nicht funktionieren nutze den Open-Source Ordner. Nun starte den den Server neu.
