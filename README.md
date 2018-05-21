@@ -18,3 +18,10 @@ und navigierst dann zu _"virions"_ dort fügst du [InvMenu](https://poggit.pmmp.
 
 ### WinGUI: <br>
 Wenn du die WinGUI aktiviert hast und dein Plugin crashed oder wird deaktiviert wird solltest du einmal die [Virion](#virion) neu installieren oder überarbeiten.
+
+<img src="https://raw.githubusercontent.com/Hyroxing/LobbyParticle-AddON/master/pic/GUI.png?raw=true"></img>
+
+
+### Hotbar-Pictures:
+<img src="https://raw.githubusercontent.com/Hyroxing/LobbyParticle-AddON/master/pic/Hot1.png?raw=true"></img> <br>
+<img src="https://raw.githubusercontent.com/Hyroxing/LobbyParticle-AddON/master/pic/Hot2.png?raw=true"></img>
