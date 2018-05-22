@@ -37,8 +37,8 @@ class Particle extends PluginBase {
         $cfg = new Config($this->getDataFolder()."config.yml", Config::YAML);
 
         if (empty($cfg->get('WinGUI'))) {
-            $cfg->set('HelpDE', 'Bevor du WinGUI auf true stzt musst du einiege extra Plugins installieren');
-            $cfg->set('HelpEN', 'If you will set WinHUI to true you musst be install some extra Plugins! go on github.com/Hyroxing/');
+            $cfg->set('HelpDE', 'Bevor du WinGUI auf true setzt musst du einiege extra Plugins installieren');
+            $cfg->set('HelpEN', 'If you will set WinGUI to true you have to install some extra Plugins! go on github.com/Hyroxing/');
             $cfg->set('WinGUI', false);
             $cfg->save();
             $cfg->reload();
